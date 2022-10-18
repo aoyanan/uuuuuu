@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  background-color: black
+    
+  }
+
+.igrs{
+  color: white;
+  font-size: 30px;
+}
+
+header {
+  position: relative;
+  padding-left: 100px
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  right: 100px;
+}
+.lists{
+  color: white;
+  list-style-type: none;
+  text-align: center;
+  padding-right: 120px;
+  font-size: 30px;
+}
+
+.list {
+  color: white;
+  padding-right: 50px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.img {
+  padding-top: 80px;
+  padding-left: 20px;
+  width: 350px;
+}
+
+.introductions {
+  padding-left: 100px;
+  color: white;
+  
+}
+.introduction{
+  display: flex;
+}
+
+.text{
+  color: white;
+  padding-left: 40px;
+  text-align: left;
+}
+
+.chobies{
+  padding-left: 50px;
+  padding-top: 60px;
+}
